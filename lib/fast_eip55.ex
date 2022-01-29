@@ -1,6 +1,7 @@
 defmodule FastEIP55 do
   @moduledoc """
   Github link: https://github.com/gregors/fast_eip_55
+
   Rust-powered Keccak version of EIP-55
 
   Provides EIP-55 encoding and validation functions.

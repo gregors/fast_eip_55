@@ -2,7 +2,7 @@
 
 Encode and validate Ethereum addresses fast!
 
-FastEIP55 is a derivative work of unnawut's [EIP-55](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-55.md).
+FastEIP55 is a derivative work of unnawut's [EIP-55](https://github.com/unnawut/eip_55) elixir implementation of the [spec](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-55.md).
 
 The original version uses a pure elixir version. This version makes 2 substantial changes.
 

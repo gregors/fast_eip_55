@@ -6,7 +6,7 @@ defmodule FastEIP55.MixProject do
   def project do
     [
       app: :fast_eip_55,
-      version: "0.1.0",
+      version: "0.1.1",
       description: "Faster Rust Keccak implementation of EIP-55. Encode and validate an Ethereum address against EIP-55 checksum in Elixir. ",
       name: "Fast EIP-55",
       package: package(),
