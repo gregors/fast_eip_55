@@ -52,6 +52,19 @@ Full documentation can be found at [https://hexdocs.pm/fast_eip_55](https://hexd
 
 ## Performance
 
+```
+Benchmarking :eip55...
+Benchmarking :fast_eip55...
+
+Name                  ips        average  deviation         median         99th %
+:fast_eip55      346.97 K        2.88 μs   ±641.72%        2.99 μs        4.99 μs
+:eip55             2.79 K      357.92 μs     ±7.01%      352.99 μs      448.99 μs
+
+Comparison:
+:fast_eip55      346.97 K
+:eip55             2.79 K - 124.19x slower +355.04 μs
+
+```
 
 ## License
 
