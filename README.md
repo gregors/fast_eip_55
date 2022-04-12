@@ -18,7 +18,7 @@ The package can be installed by adding `:fast_eip_55` to your list of dependenci
 ```elixir
 defp deps do
   [
-    {:fast_eip_55, "~> 0.1"}
+    {:fast_eip_55, "~> 0.2"}
   ]
 end
 ```
