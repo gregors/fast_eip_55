@@ -33,8 +33,8 @@ defmodule FastEIP55.MixProject do
 
   defp deps do
     [
-      {:ex_keccak, "~> 0.4.0"},
-      {:ex_doc, ">= 0.19.0", only: :dev}
+      {:ex_keccak, "~> 0.6"},
+      {:ex_doc, ">= 0.28.0", only: :dev}
     ]
   end
 end
